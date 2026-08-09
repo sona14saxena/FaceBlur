@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Mediapipe downloaded model weights (avoid checking these into source control)
+*.tflite
+face.tflite
+test.tflite
